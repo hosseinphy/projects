@@ -11,7 +11,7 @@
    <li>resulting in 35x speedup across 1024 cores by applying MPI techniques.</li>
 </ul>
 
-![ Alt text](Solidification.gif) [](Solidification.gif)
+![ Alt text](Solidifcation.gif) [](Solidifcation.gif)
 
 <img src="./cover_photo.png">
 
