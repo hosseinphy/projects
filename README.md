@@ -1,10 +1,11 @@
 <h1>Projects</h1>
 
-<p align="center">
-<h2>Simulation of heat & mass transfer in particulate fuel combustion systems (Forest fire model)</h2>
-</p>
 
+ <h2>Simulation of heat & mass transfer in particulate fuel combustion systems (Forest fire model)</h2>
+
+<p align="center">
 ![ Alt text](stock_combust_anim.gif) [](stock_combust_anim.gif)
+</p>
 <br><br>
 
 <h2>Solidification process of sinterd powder Aluminum-based alloys</h2>
