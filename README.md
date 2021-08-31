@@ -1,8 +1,6 @@
 # Projects
 
-<h3 style="color:#ff0000">Danger</h3>
-
-<font color="blue">Simulation of heat & mass transfer in particulate fuel combustion systems (Forest fire model)</font>
+<h1>Simulation of heat & mass transfer in particulate fuel combustion systems (Forest fire model)</h1>
 ![ Alt text](stock_combust_anim.gif) [](stock_combust_anim.gif)
 
 
