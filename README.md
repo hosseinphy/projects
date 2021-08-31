@@ -6,10 +6,5 @@
 ## Solidification process of sinterd powder Al-based alloy
 ![ Alt text](3D_printing.gif) [](3D_printing.gif)
 
-<img
-src=“cover_photo.png”
-raw=true
-alt=“Subject Pronouns”
-style=“margin-right: 10px;”
-/>
+<img src="./cover_photo.png">
 
