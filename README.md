@@ -13,5 +13,5 @@
 
 ![ Alt text](Solidifcation.gif) [](Solidifcation.gif)
 
-<img src="./cover_photo.png", width="250" height="250"/>
+<img src="./cover_photo.png" width="250" height="250"/>
 
