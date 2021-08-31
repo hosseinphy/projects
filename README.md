@@ -1,8 +1,7 @@
 # Projects
-## Forest fire model
+
+##Simulation of heat & mass transfer in particulate fuel combustion systems (Forest fire model)
 ![ Alt text](stock_combust_anim.gif) [](stock_combust_anim.gif)
-
-
 
 ## Solidification process of sinterd powder Al-based alloy
 ![ Alt text](3D_printing.gif) [](3D_printing.gif)
