@@ -1,6 +1,6 @@
 <h1>Projects</h1>
 
-<h2>Simulation of heat & mass transfer in particulate fuel combustion systems (Forest fire model)</h2>
+<h2>Simulation of heat & mass transfer in particulate fuel combustion systems (Forest fire model) Research Associate McGill Sep2017- Jan2018</h2>
 <ul>
  <li>Developed C++ codes for large-sacle parallel computing using Adaptive Mesh Refinement (AMR) algorithm, 10x speed up across 512 computational cores</li>
  <li></li>
@@ -34,3 +34,6 @@
 <a href="https://heroku.com/deploy">
   <img  align="right"  src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
+
+
+<h2>Capstone project (The Data Incubator Fellowship)</h2>
