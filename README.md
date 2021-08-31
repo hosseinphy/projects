@@ -3,8 +3,7 @@
  <h2>Simulation of heat & mass transfer in particulate fuel combustion systems (Forest fire model)</h2>
 
 
-![ Alt text](stock_combust_anim.gif) [](stock_combust_anim.gif)
-</p>
+![ Alt text](stock_combust_anim.gif) [] (stock_combust_anim.gif)
 
 <br><br>
 
