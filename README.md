@@ -7,7 +7,7 @@
 ![ Alt text](3D_printing.gif) [](3D_printing.gif)
 
 <img
-src=“projects/figer9.pdf”
+src=“cover_photo.png”
 raw=true
 alt=“Subject Pronouns”
 style=“margin-right: 10px;”
