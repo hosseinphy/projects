@@ -1,8 +1,9 @@
 <h1>Projects</h1>
 
- <h2>Simulation of heat & mass transfer in particulate fuel combustion systems (Forest fire model)</h2>
-
-
+<h2>Simulation of heat & mass transfer in particulate fuel combustion systems (Forest fire model)</h2>
+<ul>
+ <li>Developed C++ codes for large-sacle parallel computing using Adaptive Mesh Refinement (AMR) algorithm</li>
+</ul>
 <!--![ Alt text](stock_combust_anim.gif) [](stock_combust_anim.gif)-->
 
 <p align="center">
