@@ -1,6 +1,8 @@
 <h1>Projects</h1>
 
+<p align="center">
 <h2>Simulation of heat & mass transfer in particulate fuel combustion systems (Forest fire model)</h2>
+</p>
 
 ![ Alt text](stock_combust_anim.gif) [](stock_combust_anim.gif)
 <br><br>
