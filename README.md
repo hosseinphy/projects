@@ -1,5 +1,11 @@
 <h1>Projects</h1>
 
+<h2>Pattern formation in Reaction-Diffusion systems</h2>
+
+<p align="center">
+  <img src="./comb_seaweeds.gif">
+</p>
+
 <h2>Simulation of heat & mass transfer in particulate fuel combustion systems (Forest fire model) Research Associate McGill Sep2017- Jan2018</h2>
 <ul>
  <li>Developed C++ codes for large-sacle parallel computing using Adaptive Mesh Refinement (AMR) algorithm, 10x speed up across 512 computational cores</li>
