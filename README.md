@@ -27,7 +27,8 @@
 </p>
 
 <p align="center">
-  <img src="./cover_photo.png" width="400" height="600"/>
+  <!--<img src="./cover_photo.png" width="400" height="600"/>-->
+  <img src="./cover_photo.png"/>
 </p>
 
 <a href="https://heroku.com/deploy">
