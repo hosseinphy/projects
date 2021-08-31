@@ -11,7 +11,7 @@
    <li>resulting in 35x speedup across 1024 cores by applying MPI techniques.</li>
 </ul>
 
-![ Alt text](Solidification.gif) [](3D_printing.gif)
+![ Alt text](Solidification.gif) [](Solidification.gif)
 
 <img src="./cover_photo.png">
 
