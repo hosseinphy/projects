@@ -5,7 +5,10 @@
 
 ![ Alt text](stock_combust_anim.gif) [](stock_combust_anim.gif)
 
-<img align="center" src="stock_combust_anim.gif">
+<p align="center">
+<img src="stock_combust_anim.gif">
+</p>
+
 <br><br>
 
 <h2>Solidification process of sinterd powder Aluminum-based alloys</h2>
