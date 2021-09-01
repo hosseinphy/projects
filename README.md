@@ -6,6 +6,10 @@
   <img src="./comb_seaweeds.gif">
 </p>
 
+<br clear="left"/>
+
+A "newline". This text doesn't float anymore, is left-aligned.
+
 <ul>
   <li>Developed finite difference C++ codes for large-scale parallel computing, achieved 10x speedup</li>
   <li>Specialized and optimized the pre-existing AMR code for simulations of heat/mass transfer in 2D &
