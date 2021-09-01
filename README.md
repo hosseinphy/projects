@@ -1,6 +1,6 @@
 <h1>Projects</h1>
 
-<h2>Pattern formation in Reaction-Diffusion systems Forest fire model - PhD McGill September 2017</h2>
+<h2>Pattern formation in Reaction-Diffusion systems (forest fire model) - PhD McGill September 2017</h2>
 
 <img src="./comb_seaweeds.gif" align="left" width="200px"/>
 
