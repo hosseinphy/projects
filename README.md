@@ -5,7 +5,7 @@
 <p align="left">
   <img src="./comb_seaweeds.gif">
 </p>
-
+some text floating around the image
 <br clear="left"/>
 
 A "newline". This text doesn't float anymore, is left-aligned.
