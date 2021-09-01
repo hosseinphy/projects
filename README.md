@@ -7,12 +7,10 @@
   <img src="./comb_seaweeds.gif">
 </p>
 some text floating around the image-->
-<ul>
   <li>Developed finite difference C++ codes for large-scale parallel computing, achieved 10x speedup</li>
   <li>Specialized and optimized the pre-existing AMR code for simulations of heat/mass transfer in 2D &
      3D, (2 orders of magnitude speedup & reduced the computational cost and memory usage)
 </li>
-</ul>
 
 <br clear="left"/>
 
