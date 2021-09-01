@@ -51,7 +51,7 @@
 
 <br clear="down">
 
-<h2>Capstone project (The Data Incubator Fellowship) | August 2021</h2>
+<h2>Capstone project (The Data Incubator Fellowship) - August 2021</h2>
 
 <em>E-com Fitness</em> is a web-based application designed to forecast fitness product sales using data extracted from social media and time-series analysis of historical data
 
