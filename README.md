@@ -22,7 +22,7 @@
 <li>Programmed Matlab codes to perform spectral analysis, improved the accuracy of estimates by 20%</li>
 
 <!--![ Alt text](stock_combust_anim.gif) [](stock_combust_anim.gif)-->
-
+<br clear="down"/>
 <p align="center">
 <img src="stock_combust_anim.gif">
 </p>
