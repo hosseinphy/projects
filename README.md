@@ -18,7 +18,8 @@
 
  <li>Developed C++ codes for large-sacle parallel computing using Adaptive Mesh Refinement (AMR) algorithm, 10x speed up    
       across 512 computational cores</li>
- <li></li>
+<li>Coded shell scripts & Python scripts to collect, interpret, and visualize more than 10TB of data</li>
+<li>Programmed Matlab codes to perform spectral analysis, improved the accuracy of estimates by 20%</li>
 
 <!--![ Alt text](stock_combust_anim.gif) [](stock_combust_anim.gif)-->
 
