@@ -40,7 +40,7 @@
 <!--![ Alt text](Solidifcation.gif) [](Solidifcation.gif)-->
 
 <p align="center">
-<img src="Solidifcation.gif" width="250" height="250"/>
+<img src="Solidifcation.gif" width="800" height="200"/>
 </p>
 
 <p align="center">
