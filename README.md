@@ -2,9 +2,17 @@
 
 <h2>Pattern formation in Reaction-Diffusion systems</h2>
 
-<p align="center">
+<p align="left">
   <img src="./comb_seaweeds.gif">
 </p>
+
+<ul>
+  <li>Developed finite difference C++ codes for large-scale parallel computing, achieved 10x speedup</li>
+  <li>Specialized and optimized the pre-existing AMR code for simulations of heat/mass transfer in 2D &
+     3D, (2 orders of magnitude speedup & reduced the computational cost and memory usage)
+</li>
+</ul>
+
 
 <h2>Simulation of heat & mass transfer in particulate fuel combustion systems (Forest fire model) Research Associate McGill Sep2017- Jan2018</h2>
 <ul>
