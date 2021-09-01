@@ -3,14 +3,11 @@
 <h2>Pattern formation in Reaction-Diffusion systems</h2>
 
 <img src="./comb_seaweeds.gif" align="left" width="200px"/>
-
 <!--<p align="left">
   <img src="./comb_seaweeds.gif">
 </p>
 some text floating around the image
 <br clear="left"/>-->
-A "newline". This text doesn't float anymore, is left-aligned.
-
 <ul>
   <li>Developed finite difference C++ codes for large-scale parallel computing, achieved 10x speedup</li>
   <li>Specialized and optimized the pre-existing AMR code for simulations of heat/mass transfer in 2D &
