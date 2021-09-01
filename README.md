@@ -63,5 +63,5 @@ This application is designed to:
 <li>Predict product success or failure</li>
 <br><br>
 <a href="https://ecomfit.herokuapp.com">
-   <img  align="left"  src="https://www.herokucdn.com/deploy/button.svg" alt="Deployed">    
+   <img  align="left"  src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">    
 </a>
