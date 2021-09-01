@@ -38,6 +38,7 @@
 <li>Predict spatio-temporal patterns in different physical systems based on the processing parameters using Neural Network analysis assisting in design of new Functionally Graded Materials for specific functions & applications. Executed 40+ simulations using 2000+cores; collected and analyzed ~ 10TB of data.</li>
 
 <!--![ Alt text](Solidifcation.gif) [](Solidifcation.gif)-->
+<br clear="down"/>
 
 <p align="center">
 <img src="Solidifcation.gif" width="800"/>
