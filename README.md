@@ -51,7 +51,7 @@
 
 <br clear="down">
 
-<h2>Capstone project (The Data Incubator Fellowship)</h2>
+<h2>Capstone project (The Data Incubator Fellowship) April to August 2021</h2>
 
 <em>E-com Fitness</em> is a web-based application designed to forecast fitness product sales using data extracted from social media and time-series analysis of historical data
 
@@ -62,5 +62,5 @@ This application is designed to:
 <li>Provide negative feedback, modify sales strategies to gain customer retention</li>
 <li>Predict product success or failure</li>
 <a href="https://heroku.com/deploy">
-  <img  align="right"  src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+  <img  align="left"  src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
