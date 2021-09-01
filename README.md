@@ -6,8 +6,7 @@
 <!--<p align="left">
   <img src="./comb_seaweeds.gif">
 </p>
-some text floating around the image
-<br clear="left"/>-->
+some text floating around the image-->
 <ul>
   <li>Developed finite difference C++ codes for large-scale parallel computing, achieved 10x speedup</li>
   <li>Specialized and optimized the pre-existing AMR code for simulations of heat/mass transfer in 2D &
@@ -15,6 +14,7 @@ some text floating around the image
 </li>
 </ul>
 
+<br clear="left"/>
 
 <h2>Simulation of heat & mass transfer in particulate fuel combustion systems (Forest fire model) Research Associate McGill Sep2017- Jan2018</h2>
 <ul>
