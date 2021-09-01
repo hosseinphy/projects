@@ -61,6 +61,6 @@ This application is designed to:
 <li>Output potential profit</li>
 <li>Provide negative feedback, modify sales strategies to gain customer retention</li>
 <li>Predict product success or failure</li>
-<a href="https://heroku.com/deploy">
-  <img  align="left"  src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+<a href="https://ecomfit.herokuapp.com">
+   <img  align="left"  src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">    
 </a>
