@@ -2,12 +2,13 @@
 
 <h2>Pattern formation in Reaction-Diffusion systems</h2>
 
-<p align="left">
+<img src="./comb_seaweeds.gif" align="left" width="200px"/>
+
+<!--<p align="left">
   <img src="./comb_seaweeds.gif">
 </p>
 some text floating around the image
-<br clear="left"/>
-
+<br clear="left"/>-->
 A "newline". This text doesn't float anymore, is left-aligned.
 
 <ul>
