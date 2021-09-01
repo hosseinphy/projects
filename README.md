@@ -23,18 +23,19 @@
 
 <!--![ Alt text](stock_combust_anim.gif) [](stock_combust_anim.gif)-->
 <br clear="down"/>
+
 <p align="center">
 <img src="stock_combust_anim.gif">
 </p>
 
-<br><br>
 
-<h2>Solidification process of sinterd powder Aluminum-based alloys</h2>
-<ul>
-   <li>Designed & implemented a high performance computing algorithm for large-scale simulations of a solidification during 3D Metal Printing process of mechanical parts</li>
- <li>Achieve expreimentally relevant simulation sizes & parameters, validating experimental obseervations </li>
-   <li>resulting in 35x speedup across 1024 cores by applying MPI techniques.</li>
-</ul>
+<h2>Solidification process of sinterd powder Aluminum-based alloys - Marine Additive Manufacturing Centre of Excellence, University of New Brunswick Febreuary 2018 - August 2019 </h2>
+     
+<li>Designed & implemented a high performance computing algorithm for large-scale simulations of a solidification during 3D Metal Printing process of mechanical parts, resulting in 35x speedup across 1024 cores by applying MPI techniques.</li> 
+     
+<li>Initiated process automation that required to collect, interpret, and visualize more than 10TB of data during 3D printing simulation. Accelerated processing time 7-fold (from 14 to 2 days).</li> 
+     
+<li>Predict spatio-temporal patterns in different physical systems based on the processing parameters using Neural Network analysis assisting in design of new Functionally Graded Materials for specific functions & applications. Executed 40+ simulations using 2000+cores; collected and analyzed ~ 10TB of data.</li>
 
 <!--![ Alt text](Solidifcation.gif) [](Solidifcation.gif)-->
 
