@@ -2,7 +2,7 @@
 
 <h2>Pattern formation in Reaction-Diffusion systems (forest fire model) - PhD McGill September 2017</h2>
 
-<img src="./AMR.gif" align="left" width="200px"/>
+<img src="./AMR.gif" align="left" width="600px"/>
 
 <li>Developed finite difference C++ codes for large-scale parallel computing, achieved 10x speedup</li>
 <li>Specialized and optimized the pre-existing Adaptive Mesh Refinement (AMR) code for simulations of heat/mass transfer in 2D &
