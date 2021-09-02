@@ -29,6 +29,13 @@
 </p>
 
 
+<br><br>
+
+<p align="center">
+<img src="psd.gif">
+</p>
+
+
 <h2>Solidification process of sintered powder Aluminum-based alloys - Marine Additive Manufacturing Centre of Excellence, University of New Brunswick February 2018 - August 2021 </h2>
      
 <li>Designed & implemented a high-performance computing algorithm for large-scale simulations of a solidification during 3D Metal Printing process of mechanical parts, resulting in 35x speedup across 1024 cores by applying MPI techniques. </li> 
