@@ -32,7 +32,7 @@
 <br><br>
 
 <p align="center">
-<img src="psd.gif" widht="600px">
+<img src="psd.gif" widht="400px">
 </p>
 
 
