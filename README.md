@@ -5,7 +5,7 @@
 <img src="./comb_seaweeds.gif" align="left" width="200px"/>
 
 <li>Developed finite difference C++ codes for large-scale parallel computing, achieved 10x speedup</li>
-<li>Specialized and optimized the pre-existing AMR code for simulations of heat/mass transfer in 2D &
+<li>Specialized and optimized the pre-existing Adaptive Mesh Refinement (AMR) code for simulations of heat/mass transfer in 2D &
      3D, (2 orders of magnitude speedup & reduced the computational cost and memory usage)
 </li>
 
@@ -16,7 +16,7 @@
 
 <h2>Simulation of heat & mass transfer in particulate fuel combustion systems - Research Associate McGill Sep 2017- January 2018</h2>
 
- <li>Developed C++ codes for large-sacle parallel computing using Adaptive Mesh Refinement (AMR) algorithm, 10x speed up    
+ <li>Developed C++ codes for large-sacle parallel computing using AMR algorithm, 10x speed up    
       across 512 computational cores</li>
 <li>Coded shell scripts & Python scripts to collect, interpret, and visualize more than 10TB of data</li>
 <li>Programmed Matlab codes to perform spectral analysis, improved the accuracy of estimates by 20%</li>
