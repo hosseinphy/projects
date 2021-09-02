@@ -25,7 +25,7 @@
 <br clear="down"/>
 
 <p align="center">
-<img src="stock_combust_anim.gif">
+<img src="stock_combust_anim.gif" width="600px">
 </p>
 
 
