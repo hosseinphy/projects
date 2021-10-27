@@ -1,6 +1,6 @@
 <h1>Projects</h1>
-
-<h2>Pattern formation in Reaction-Diffusion systems (e.g., flame front) - PhD McGill September 2017</h2>
+<ul>
+<li><h2>Pattern formation in Reaction-Diffusion systems (e.g., flame front) - PhD McGill September 2017</h2></li>
 
 <img src="./AMR.gif" align="left" width="600px"/>
 
@@ -70,5 +70,5 @@ This application is designed to:
 <a href="https://ecomfit.herokuapp.com">
    <img  align="left"  src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">    
 </a>
-
+</ul>
  
