@@ -1,7 +1,7 @@
 <h1>Projects</h1>
 <ol>
 <h2><li>Pattern formation in Reaction-Diffusion systems (e.g., flame front) - PhD McGill September 2017</li></h2>
-</ol>
+
 <img src="./AMR.gif" align="left" width="600px"/>
 
 <li>Developed finite difference C++ codes for large-scale parallel computing, achieved 10x speedup</li>
@@ -70,5 +70,5 @@ This application is designed to:
 <a href="https://ecomfit.herokuapp.com">
    <img  align="left"  src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">    
 </a>
-
+</ol>
  
