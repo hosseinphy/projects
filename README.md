@@ -1,6 +1,6 @@
 <h1>Projects</h1>
 <ol>
-<li><h2>Pattern formation in Reaction-Diffusion systems (e.g., flame front) - PhD McGill September 2017</h2></li>
+<h2><li>Pattern formation in Reaction-Diffusion systems (e.g., flame front) - PhD McGill September 2017</li></h2>
 </ol>
 <img src="./AMR.gif" align="left" width="600px"/>
 
