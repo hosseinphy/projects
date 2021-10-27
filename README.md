@@ -13,7 +13,7 @@
 <br clear="left"/>
 <br><br>
 
-<ol>
+<ol start="2">
 <h2><li>Simulation of heat & mass transfer in particulate fuel combustion systems (forest fire model) - Research Associate McGill Sep 2017- January 2018</li></h2>
 </ol>
  <li>Developed C++ codes for large-scale parallel computing using AMR algorithm, 10x speed up    
