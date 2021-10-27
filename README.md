@@ -1,7 +1,7 @@
 <h1>Projects</h1>
 <ol>
 <h2><li>Pattern formation in Reaction-Diffusion systems (e.g., flame front) - PhD McGill September 2017</li></h2>
-
+</ol>
 <img src="./AMR.gif" align="left" width="600px"/>
 
 <li>Developed finite difference C++ codes for large-scale parallel computing, achieved 10x speedup</li>
@@ -13,9 +13,9 @@
 <br clear="left"/>
 <br><br>
 
-
-<h2>Simulation of heat & mass transfer in particulate fuel combustion systems (forest fire model) - Research Associate McGill Sep 2017- January 2018</h2>
-
+<ol>
+<h2><li>Simulation of heat & mass transfer in particulate fuel combustion systems (forest fire model) - Research Associate McGill Sep 2017- January 2018</li></h2>
+</ol>
  <li>Developed C++ codes for large-scale parallel computing using AMR algorithm, 10x speed up    
       across 512 computational cores</li>
 <li>Coded shell scripts & Python scripts to collect, interpret, and visualize more than 10TB of data</li>
@@ -35,9 +35,9 @@
 <img src="psd.gif" widht="200px" height="500px">
 </p>
 
-
-<h2>Solidification process of sintered powder Aluminum-based alloys - Marine Additive Manufacturing Centre of Excellence, University of New Brunswick February 2018 - August 2021 </h2>
-     
+<ol>
+<h2><li>Solidification process of sintered powder Aluminum-based alloys - Marine Additive Manufacturing Centre of Excellence, University of New Brunswick February 2018 - August 2021</li></h2>
+</ol>     
 <li>Designed & implemented a high-performance computing algorithm for large-scale simulations of a solidification during 3D Metal Printing process of mechanical parts, resulting in 35x speedup across 1024 cores by applying MPI techniques. </li> 
      
 <li>Initiated process automation that required to collect, interpret, and visualize more than 10TB of data during 3D printing simulation. Accelerated processing time 7-fold (from 14 to 2 days).</li> 
@@ -56,8 +56,9 @@
 
 <br clear="down">
 
-<h2>Capstone project (The Data Incubator Fellowship) - August 2021</h2>
-
+<ol>
+<h2><li>Capstone project (The Data Incubator Fellowship) - August 2021</li></h2>
+</ol>
 <em>E-com Fitness</em> is a web-based application designed to forecast fitness product sales using data extracted from social media and time-series analysis of historical data
 
 This application is designed to:
@@ -70,5 +71,5 @@ This application is designed to:
 <a href="https://ecomfit.herokuapp.com">
    <img  align="left"  src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">    
 </a>
-</ol>
+
  
