@@ -35,7 +35,7 @@
 <img src="psd.gif" widht="200px" height="500px">
 </p>
 
-<ol>
+<ol start="3">
 <h2><li>Solidification process of sintered powder Aluminum-based alloys - Marine Additive Manufacturing Centre of Excellence, University of New Brunswick February 2018 - August 2021</li></h2>
 </ol>     
 <li>Designed & implemented a high-performance computing algorithm for large-scale simulations of a solidification during 3D Metal Printing process of mechanical parts, resulting in 35x speedup across 1024 cores by applying MPI techniques. </li> 
@@ -56,7 +56,7 @@
 
 <br clear="down">
 
-<ol>
+<ol start="4">
 <h2><li>Capstone project (The Data Incubator Fellowship) - August 2021</li></h2>
 </ol>
 <em>E-com Fitness</em> is a web-based application designed to forecast fitness product sales using data extracted from social media and time-series analysis of historical data
