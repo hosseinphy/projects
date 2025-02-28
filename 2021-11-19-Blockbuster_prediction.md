@@ -9,8 +9,7 @@ excerpt:  Hollywood Blockbuster Movie Revenue
 
 ## Summary
 -----------
-Hollywood Blockbuster is a movie box-office revenue prediction. In this project, we consider this as a multiclassification problem, where the movie revenue is discretized into 9 `Category` ranging from lowest `1` to highest (a blockbuster) `9`. Here, I built and compared the performance of few classifiers: Logistic Regression (LR), Decision Tree Classifier (DTC) and Random Forest Classifier (RFC) to predict revenue categories for a given dataset.  The RFC model is shown to perform significantly better than both LR and DTC, with a *Bingo Classification Accuracy* of 76.6% and a *1-Away Classification Accuracy* of 98.0% which is higher than those reported in http://www1.mmo.org.tr/resimler/dosya_ekler/c5b45ddb3ff1f62_ek.pdf
-The detailed procedure of building these machine learning (ML) models will be explained in this notebook through the following steps:
+Hollywood Blockbuster is a movie box-office revenue prediction. In this project, we consider this as a multiclassification problem, where the movie revenue is discretized into 9 `Category` ranging from lowest `1` to highest (a blockbuster) `9`. Here, I built and compared the performance of few classifiers: Logistic Regression (LR), Decision Tree Classifier (DTC) and Random Forest Classifier (RFC) to predict revenue categories for a given dataset.  The RFC model is shown to perform significantly better than both LR and DTC, with a *Bingo Classification Accuracy* of 76.6% and a *1-Away Classification Accuracy* of 98.0%. The detailed procedure of building these machine learning (ML) models will be explained in this notebook through the following steps:
 
 - Data Preparation     
 - EDA  
